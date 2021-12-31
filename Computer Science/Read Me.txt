@@ -1,0 +1,12 @@
+[1] Ref : MIT
+[2] Ref : Harvard
+[3] Ref : Stanford
+[4] Ref : News, Internet Sites
+[5] Ref : Problem and Solution
+[6] Ref : GitHub
+[7] Ref : Official Data
+[8] Ref : paper and archive.org
+[9] Ref : KR, US, UK
+[10] Ref : google search
+[11] Ref : URL, MP4, MP3 [youtube ?]
+[12] Ref : B5, Campany, Major Dev......ETC
